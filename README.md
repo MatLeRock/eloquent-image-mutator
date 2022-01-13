@@ -1,4 +1,9 @@
-Eloquent Image Mutator Version: 2^
+# Changed orignal (sahusoftcom/eloquent-image-mutator) to also support Laravel 6
+
+Not tested to this point
+
+
+# Eloquent Image Mutator Version: 2^
 ======================
 
 Relating an image with a model is always a pain. Eloquent Image Mutator provides an easy mutator for Eloquent models to save and retrieve images.

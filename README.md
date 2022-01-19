@@ -1,6 +1,11 @@
-# Changed orignal (sahusoftcom/eloquent-image-mutator) to also support Laravel 6
+# Changed composer.json from orignal (sahusoftcom/eloquent-image-mutator) to also support Laravel 6 / 7 / 8
 
-Not tested to this point
+ Laravel          | Status
+:-----------------|:----------
+ ^5.1             | Works
+ ^6.0             | Works
+ ^7.0             | Not tested yet
+ ^8.0             | Not tested yet
 
 
 # Eloquent Image Mutator Version: 2^
